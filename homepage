@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Home Page</title>
+   <meta name="viewport" content="width=device-width,initial-scale=1" >
+
+  <link href='style.css' rel='stylesheet'>
+</head>
+<body>
+  <center>
+  <script src='script.js'></script>
+  <ul class = title><h1>Home Page</h1></ul>
+  <center><p>Created by 1101025, 1101012</p></center>
+  <h3>Use this page to get from the <strong> Fundraisers, Donations, Voluntary Work, and Awareness-Raising Projects</strong> Page and the <strong>Museum Virtual Tours and Exhibits</strong>Page </h3>
+
+  <ul class = fundraisers>
+  <h4>  To get to the <a href="https://www.codecademy.com/workspaces/61f303a78f6c970a7afd5aa8?preview=true" target = "_blank">Fundraisers, Donations, Voluntary Work, and Awareness-Raising Projects Page</a></h4>
+  </ul>
+  <ul class = museums>
+  <h4>  To get to the  <a href="https://www.codecademy.com/workspaces/620eb1d9182e719d7c0eb3ed?preview=true" target = "_blank">Museum Virtual Tours and Exhibits Page</a></h4>
+  </ul>
+  
+  <div class="cropped">
+<img src = "https://images.liverpoolmuseums.org.uk/styles/dynamic/public/2020-01/blog-wordcloud.jpg" alt="What culture means to people word cloud">
+</div>
+  </center>
+</body>
+</html>
