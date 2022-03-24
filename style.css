@@ -1,0 +1,55 @@
+.title { color: black;
+  
+}
+body {
+  background: #e5f6df;
+  color:	 black;
+  padding: 25px;
+  font-family: fantasy;
+}
+.fundraisers {
+  background: #96d294 ;
+  color:	 black;
+  padding: 25px;
+  font-family: fantasy
+  crop: -10px;
+}
+.museums {
+  background: #9dc183;
+  color:	 black;
+  padding: 25px;
+  font-family: fantasy;
+}
+  .cropped {
+width: 500px; 
+height: 325px; 
+overflow: hidden;
+border: 25px solid #e5f6df;
+}
+.cropped img {
+margin: -10px 0px 0px -10px;
+}
+a:link {
+  color: #4d96fb;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: #1167b1;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #6a0dad;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
